@@ -1,0 +1,12 @@
+# Simulation Instructions
+
+## Overview
+These instructions guide you on simulating the Arduino project using [SimulationToolName].
+
+1. Open TinkerCAD.
+2. Create a new project.
+3. Add components similar to the circuit diagram.
+4. Copy the Arduino code from `/src/main_code.ino` and paste it into the simulation environment.
+5. Simulate the project and observe the results.
+
+Feel free to adjust simulation parameters or experiment with different scenarios to enhance your understanding of the project.

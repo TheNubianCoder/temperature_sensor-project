@@ -1,0 +1,17 @@
+# User Manual
+
+## Overview
+This Arduino-based temperature monitoring system reads data from a TMP36 sensor and displays it on a 16x2 LCD. The LED serves as a visual indicator. A potentiometer is included for adjusting the LCD contrast.
+
+## Setup Instructions
+1. Connect the TMP36 sensor, LCD, and potentiometer to the Arduino following the circuit diagram.
+2. Upload the Arduino code from the `/src` directory to your Arduino board.
+3. Power on the Arduino.
+
+## LCD Contrast Adjustment
+Use the potentiometer to adjust the contrast of the LCD for optimal visibility. Turn the potentiometer until the text on the LCD is clearly visible.
+
+## Troubleshooting
+- If you encounter issues, refer to the README.md or consult the project's community for assistance.
+
+Enjoy monitoring the temperature with your Arduino project!
